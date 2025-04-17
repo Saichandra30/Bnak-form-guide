@@ -1,0 +1,6 @@
+pyttsx3
+matplotlib
+opencv-python
+easyocr
+SpeechRecognition
+pyaudio
